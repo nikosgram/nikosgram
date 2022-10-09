@@ -1,4 +1,6 @@
-<a href="https://github.com/nikosgram/">
+[![@mallor's Holopin board](https://holopin.io/api/user/board?user=mallor)](https://holopin.io/@mallor)
+
+<a href="https://nikosgram.me/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosgram&show_icons=true&theme=tokyonight" />
 </a>
 
