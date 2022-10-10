@@ -1,20 +1,11 @@
 [![@mallor's Holopin board](https://holopin.io/api/user/board?user=mallor)](https://holopin.io/@mallor)
 
-<a href="https://nikosgram.me/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosgram&show_icons=true&theme=tokyonight" />
-</a>
+Hi, I'm Nikolaos, a software engineer based in Newcastle upon Tyne in the UK. My passion is developing software whilst analysing projects and making ongoing productivity improvements. Another passion of mine is creating gameplay content for Youtube and Trovo.
 
-<!--
-**nikosgram/nikosgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Gringotts
+- 🌱 I’m currently learning cryptography
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+[![@nikosgram's GitHub stats](https://github-readme-stats-jade-phi-82.vercel.app/api?username=nikosgram&theme=highcontrast)](https://nikosgram.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats-jade-phi-82.vercel.app/api/top-langs/?username=nikosgram&layout=compact&theme=highcontrast)](https://nikosgram.me)
